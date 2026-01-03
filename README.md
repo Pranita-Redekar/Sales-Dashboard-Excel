@@ -23,39 +23,40 @@ The dashboard provides insights into total sales, target hit percentage, and awa
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
 
 Effective inventory and sales management are critical in the retail sector. This project aims to:
--Identify underperforming sales executives and cities requiring strategic intervention
--Analyze city-wise and executive-wise sales performance
--Measure target achievement and highlight gaps from assigned targets
--Evaluate sales contribution across different regions
--Support data-driven decision-making through interactive visual dashboards
----
+-Identify underperforming sales executives and cities requiring strategic intervention<br>
+-Analyze city-wise and executive-wise sales performance<br>
+-Measure target achievement and highlight gaps from assigned targets<br>
+-Evaluate sales contribution across different regions<br>
+-Support data-driven decision-making through interactive visual dashboards<br>
+
 
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
--Microsoft Excel (Pivot Tables, Filters, Slicers)
--Excel Functions & Formulas (SUM, IF, AVERAGE, COUNT, VLOOKUP/XLOOKUP)
--Excel Charts (Bar Charts, Pie Charts, Line Charts)
+-Microsoft Excel (Pivot Tables, Filters, Slicers) <br>
+-Excel Functions & Formulas (SUM, IF, AVERAGE, COUNT, VLOOKUP/XLOOKUP)<br>
+-Excel Charts (Bar Charts, Pie Charts, Line Charts)<br>
 -GitHub
 
----
+
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
 The dashboard includes:
--City selection buttons (Chennai, Delhi, Pune, etc.)
--Sales Executive vs Total Sales table
--Bar chart showing executive-wise sales
--Pie chart for target hit percentage
--Line chart showing away-from-target trends
+-City selection buttons (Chennai, Delhi, Pune, etc.)<br>
+-Sales Executive vs Total Sales table<br>
+-Bar chart showing executive-wise sales<br>
+-Pie chart for target hit percentage<br>
+-Line chart showing away-from-target trends<br>
 ![Sales Performance Dashboard](images/dashboard.png)
 
----
+
 <h2><a class="anchor" id="final-result"></a>Result</h2>
 
 -The dashboard successfully provides a clear, interactive view of sales performance, helping stakeholders:
--Monitor progress against targets
--Identify improvement areas
--Make faster and smarter business decisions
----
+-Monitor progress against targets<br>
+-Identify improvement areas<br>
+-Make faster and smarter business decisions<br>
+
+
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 **Pranita Redekar**  
