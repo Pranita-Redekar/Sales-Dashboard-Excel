@@ -50,7 +50,7 @@ The dashboard includes:
 -Bar chart showing executive-wise sales<br>
 -Pie chart for target hit percentage<br>
 -Line chart showing away-from-target trends<br>
-![Sales Performance Dashboard](images/dashboard.png)
+<a href="https://github.com/Pranita-Redekar/Sales-Dashboard-Excel/blob/main/Dashboard.png" >Dashboard View </a>
 
 
 <h2><a class="anchor" id="final-result"></a>Result</h2>
