@@ -30,6 +30,10 @@ Effective inventory and sales management are critical in the retail sector. This
 -Support data-driven decision-making through interactive visual dashboards<br>
 
 
+<h2><a class="anchor" id="dataset">Dataset</a></h2>
+<a href="https://github.com/Pranita-Redekar/Sales-Dashboard-Excel/blob/main/Sales%20Data.xlsx">Dataset View</a>
+
+
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
 -Microsoft Excel (Pivot Tables, Filters, Slicers) <br>
