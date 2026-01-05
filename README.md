@@ -3,7 +3,6 @@
 An interactive sales dashboard that analyzes city-wise and sales executive-wise performance to track total sales, target achievement, and gaps from targets.
 
 
----
 
 ## 📌 Table of Contents
 - <a href="#overview">Overview</a>
@@ -14,7 +13,7 @@ An interactive sales dashboard that analyzes city-wise and sales executive-wise 
 - <a href="#final-result">Result</a>
 - <a href="#author--contact">Author & Contact</a>
 
----
+
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
 This project presents a visual analytics dashboard designed to help management monitor sales performance across multiple cities such as Chennai, Delhi, Mumbai, Nagpur, Patna, Pune, Ranchi, and Surat.
